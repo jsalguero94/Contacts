@@ -64,7 +64,7 @@ class ContactsController extends Controller
         $emailf=$req->dataa['email'];
         $rowcount=count( $object[0]);
 //TODO The variables above will be to change the correct fields,
-
+//At last minute I have the idea to asign a number value in the select option
 
 
 //*f means field
