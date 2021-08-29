@@ -15,6 +15,16 @@ This app connects to S3 aws bucket. All the csv files are saved in aws.
 
 You need to sing up. The app have the option with two factor Google authenticator.
 
+You can also test it in live!!
+
+http://contactsbyjulio-env.eba-capmgpmh.us-east-2.elasticbeanstalk.com/
+
+You can create you own account or use the below account:
+- email:
+- test@test.com
+- password:
+- 12345678
+
 ![](https://github.com/jsalguero94/Contacts/blob/a0fa5a1bffaa15c411ed27f882a69f1a118c51ac/public/img/front%20page.PNG)
 ![](https://github.com/jsalguero94/Contacts/blob/95498274de7d11a9a13a28c89f5f37d486376c97/public/img/er-diagram.png)
 
